@@ -1,3 +1,5 @@
+const cool = require('cool-ascii-faces');
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
